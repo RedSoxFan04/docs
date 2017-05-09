@@ -25,6 +25,8 @@ section: articles
 
 ---
 
+Note: If you have updated FireFox since May 2017, or if Chromium is your primary browser, these steps are unnecesary for watching Netflix. But, it's still a good idea to install Pepperflash so you can watch flash videos from sites other than Netflix
+
 To watch Flash videos with <u>Firefox</u>, <u>Chromium</u>, and <u>Opera</u>, we recommend using <u>Pepperflash</u>, rather than <u>Adobe Flash</u>, for security reasons.  <u>Pepperflash</u> is maintained by Google and included in the <u>Chrome</u> browser by default, and can be downloaded separately to be used in other browsers.  Please run this command to install <u>Pepperflash</u>:
 
 ```
